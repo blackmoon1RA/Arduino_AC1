@@ -23,6 +23,7 @@ Algumas questões que tivemos mais problemas foram nas programações do led ver
 Equipe BlackMoon: 
 
 Beatriz Bejar Carvalheiro
+![](https://github.com/blackmoon1RA/Arduino_AC1/blob/main/bia.jpg?raw=true)
 função: contribuir para encontrar os erros do código 
 - gosto de tocar piano 
 - estudante 
