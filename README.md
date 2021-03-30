@@ -30,6 +30,7 @@ função: contribuir para encontrar os erros do código
 - leitora 
 
 Jean Lucas Loureiro Depieri 
+
 ![](https://github.com/blackmoon1RA/Arduino_AC1/blob/main/jean.jpg?raw=true)
 função: contribuir para a descrição do trabalho (arrumar a foto principal) 
 - gamer 
