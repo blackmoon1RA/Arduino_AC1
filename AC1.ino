@@ -1,4 +1,5 @@
-//leds
+//leds 
+//erro de ponto e vírgula 
 const int vermelho = 5;
 const int verde = 6;
 const int azul = 7;
@@ -53,6 +54,7 @@ void loop()
 
   delay(10);
 }
+//verificador de luminosidade
 if(getLuminosidade() > 5){
     ledVerde(true);
     Serial.println("Luminosidade acima do correto");
