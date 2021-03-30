@@ -50,6 +50,7 @@ void loop()
   	ledAzul(false); 
     Serial.println("temperatura ok");
    }
+  
    //verificador de luminosidade  
   if(getLuminosidade() > 5){
     ledVerde(true);
@@ -88,5 +89,4 @@ int getLuminosidade(){
 	luminosidade = map(analogRead(A1), 6, 619, -3, 10);
   	return luminosidade;
 }
-  
   
