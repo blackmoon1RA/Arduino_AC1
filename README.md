@@ -42,7 +42,6 @@ função: contribuir para a descrição
 
 Mariana Berti
 
-
 função: contribuir para a descrição 
 - leitora 
 - estudante 
