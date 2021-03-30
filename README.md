@@ -30,12 +30,14 @@ função: contribuir para encontrar os erros do código
 - leitora 
 
 Jean Lucas Loureiro Depieri 
+![](https://github.com/blackmoon1RA/Arduino_AC1/blob/main/jean.jpg?raw=true)
 função: contribuir para a descrição do trabalho (arrumar a foto principal) 
 - gamer 
 - estudante 
 - kickboxing 
 
-Luiza de Andrade Brito 
+Luiza de Andrade Brito
+![](https://github.com/blackmoon1RA/Arduino_AC1/blob/main/luiza2.jpg?raw=true)
 função: contribuir para a descrição 
 - artista 
 - estudante 
@@ -49,12 +51,14 @@ função: contribuir para a descrição
 - palmeirense 
 
 Mariana Principe Alvarenga (líder)
+![](https://github.com/blackmoon1RA/Arduino_AC1/blob/main/mariprincipe.jpg?raw=true)
 função: contribuir para encontrar os erros do código
 - leitora 
 - estudante 
 - amante de plantas 
 
 Sarah Raíssa Margiotta Lamonica Crespo 
+![](https://github.com/blackmoon1RA/Arduino_AC1/blob/main/sarah.png?raw=true)
 função: contribuir para a documentação 
 - gosto de dançar 
 - de pintar 
