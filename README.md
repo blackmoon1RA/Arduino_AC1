@@ -41,11 +41,12 @@ função: contribuir para a descrição
 - jazz 
 
 Mariana Berti
+
+
 função: contribuir para a descrição 
 - leitora 
 - estudante 
 - palmeirense 
-https://mail.google.com/mail/u/0?ui=2&ik=533f9f2bde&attid=0.3&permmsgid=msg-f:1695692923870586824&th=17884fbae77327c8&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ-nmslHKYzot0dVpBVLrFC7job2QVN1enIx41x7WA0YEiVDCFmMqU340B8jXrtdrEN_oheuG-PwF_3IUD3ZfZIWTHuw8GEnroRBTi8r8Q7ENU34-OJvW01fjoM&disp=emb&realattid=17884f62debffd946251
 
 Mariana Principe Alvarenga (líder)
 função: contribuir para encontrar os erros do código
