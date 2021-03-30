@@ -41,7 +41,7 @@ função: contribuir para a descrição
 - jazz 
 
 Mariana Berti
-https://github.com/blackmoon1RA/Arduino_AC1/blob/main/mariberti.jpg?raw=true
+![](https://github.com/blackmoon1RA/Arduino_AC1/blob/main/mariberti.jpg?raw=true)
 função: contribuir para a descrição 
 - leitora 
 - estudante 
