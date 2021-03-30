@@ -1,5 +1,5 @@
 # Arduino_AC1
-## Nossa primeira AC, observe bem o código, procure pelos erros.
+## Nossa primeira AC - BlackMoon
 
 Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
